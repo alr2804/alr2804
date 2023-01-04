@@ -4,7 +4,16 @@
 - 💞️ I’m looking to collaborate on some open source project.
 - 📫 How to reach me ...
 
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alr2804&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alr2804&layout=compact"/>
+</details>
+
 <!---
-alr2804/alr2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+In progress
 --->
